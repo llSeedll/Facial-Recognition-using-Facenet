@@ -1,0 +1,9 @@
+numpy
+matplotlib
+cv2
+keras
+Cake
+dlib
+h5py
+scipy
+imutils
